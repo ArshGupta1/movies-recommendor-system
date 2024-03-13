@@ -1,2 +1,3 @@
 # movies-recommendor-system
-this is a website which recommends movies on the basis of what you saw earlier.
+This is a website that recommends movies based on your viewing history.
+
